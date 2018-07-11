@@ -223,6 +223,36 @@
             </div>
         </div>
     </div>
+
+
+    <div id="our-awards">
+        <div class="container">
+            <div class="col-md-12 text-center" >
+                <h2 class="section-header">OUR AWARDS</h2>
+                <hr class="line"/>
+            </div>
+
+            <div class="col-md-12">
+                <div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="20" data-nav="false" data-pagi="true" data-items-xxs="2" data-items-xs="3" data-items-sm="4" data-items-md="5" data-items-lg="6">
+
+                    <div class="oc-item"><a href="https://ec.europa.eu/"><img src="{{asset('images/siteImages/award1.png')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a href="http://www.elra.info/en/"><img src="{{asset('images/siteImages/award2.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a href="http://www.cengage.com/"><img src="{{asset('images/siteImages/award3.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a href="https://www.baidu.com/"><img src="{{asset('images/siteImages/award4.png')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a href="https://www.orange.com/en/home"><img src="{{asset('images/siteImages/award5.png')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a href="http://www.acapela-group.com/"><img src="{{asset('images/siteImages/award6.png')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a href="#"><img src="{{asset('images/siteImages/award7.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a href="http://asgatech.com/AsgaSite/?lang=ar"><img src="{{asset('images/siteImages/award8.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a href="http://asgatech.com/AsgaSite/?lang=ar"><img src="{{asset('images/siteImages/award9.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a href="http://asgatech.com/AsgaSite/?lang=ar"><img src="{{asset('images/siteImages/award10.png')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a href="http://asgatech.com/AsgaSite/?lang=ar"><img src="{{asset('images/siteImages/award11.png')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a href="http://asgatech.com/AsgaSite/?lang=ar"><img src="{{asset('images/siteImages/award12.jpeg')}}" alt="Clients"></a></div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
 @endsection
 
 
@@ -254,6 +284,24 @@
                 },
                 1000:{
                     items:1
+                }
+            }
+        });
+
+
+        $('#our-clients .owl-carousel').owlCarousel({
+            loop:true,
+            margin:10,
+            nav:false,
+            responsive:{
+                0:{
+                    items:1
+                },
+                600:{
+                    items:2
+                },
+                1000:{
+                    items:4
                 }
             }
         })

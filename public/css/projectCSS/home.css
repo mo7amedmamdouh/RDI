@@ -112,3 +112,12 @@
 #our-clients .owl-carousel .owl-dots .owl-dot span{
     background-color: #385858;
 }
+
+#our-awards{
+    background-color: #f2f2f2;
+    padding: 50px 0px;
+}
+
+#our-awards .owl-carousel .owl-dots .owl-dot span{
+    background-color: #385858;
+}
