@@ -298,7 +298,7 @@
 
 	#header.transparent-header,
 	#header.semi-transparent {
-		background: #FFF;
+		background: #385858;
 		border-bottom: 1px solid #F5F5F5;
 		z-index: auto;
 	}
@@ -382,6 +382,7 @@
 
 	body:not(.top-search-open) #primary-menu-trigger {
 		opacity: 1;
+		color:white;
 		-webkit-transition: opacity .2s .2s ease, top .4s ease;
 		-o-transition: opacity .2s .2s ease, top .4s ease;
 		transition: opacity .2s .2s ease, top .4s ease;

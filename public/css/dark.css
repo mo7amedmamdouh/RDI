@@ -179,9 +179,9 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 .dark #primary-menu:not(.not-dark) ul li .mega-menu-content,
 #primary-menu.dark ul ul,
 #primary-menu.dark ul li .mega-menu-content {
-	background-color: #333;
-	border-color: #3F3F3F;
-	border-top-color: #1ABC9C;
+	background-color: white;
+	border-color: white;
+	border-top-color: white;
 }
 
 .dark.overlay-menu #primary-menu:not(.not-dark) ul,
@@ -202,12 +202,12 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 #primary-menu.dark ul ul li:first-child { border-top: 0; }
 
 .dark #primary-menu:not(.not-dark) ul ul li > a,
-#primary-menu.dark ul ul li > a { color: #999 !important; }
+#primary-menu.dark ul ul li > a { color: black !important; }
 
 .dark #primary-menu:not(.not-dark) ul ul li:hover > a,
 #primary-menu.dark ul ul li:hover > a {
 	background-color: rgba(0,0,0,0.1);
-	color: #CCC !important;
+	color: black;
 }
 
 .dark #primary-menu:not(.not-dark) ul ul > li.sub-menu > a,

@@ -942,7 +942,7 @@ html[xmlns] .slider-wrap {display: block;}
 #header .container { position: relative; }
 
 #header.transparent-header {
-	background: transparent;
+	background: #385858;
 	border-bottom: none;
 	z-index: 199;
 }
@@ -1017,7 +1017,10 @@ body.stretched #header.full-header .container {
 	border-right: 1px solid #EEE;
 }
 
-#header.transparent-header.full-header #logo { border-right-color: rgba(0,0,0,0.1); }
+#header.transparent-header.full-header #logo {
+	border-right-color: rgba(0,0,0,0.1);
+	border: 0px;
+}
 
 #logo a {
 	display: block;
@@ -1087,7 +1090,10 @@ body.stretched #header.full-header .container {
 	border-right: 1px solid #EEE;
 }
 
-#header.transparent-header.full-header #primary-menu > ul { border-right-color: rgba(0,0,0,0.1); }
+#header.transparent-header.full-header #primary-menu > ul {
+	border-right-color: rgba(0,0,0,0.1);
+	border: 0px;
+}
 
 #primary-menu-trigger,
 #page-submenu-trigger {
@@ -1129,15 +1135,24 @@ body.stretched #header.full-header .container {
 	display: block;
 	line-height: 22px;
 	padding: 39px 15px;
-	color: #444;
-	font-weight: bold;
-	font-size: 13px;
-	letter-spacing: 1px;
+	color: white;
+	font-weight: 600;
+	font-size: 15px;
+	letter-spacing: 0px;
 	text-transform: uppercase;
 	font-family: 'Raleway', sans-serif;
 	-webkit-transition: margin .4s ease, padding .4s ease;
 	-o-transition: margin .4s ease, padding .4s ease;
 	transition: margin .4s ease, padding .4s ease;
+}
+
+#primary-menu ul li:hover{
+	color: #485858;
+	background: #fff;
+}
+
+#primary-menu ul li:hover>a {
+	color: black;
 }
 
 #primary-menu ul li > a span { display: none; }
@@ -1157,8 +1172,6 @@ body.stretched #header.full-header .container {
 	margin: 0 0 0 5px;
 }
 
-#primary-menu ul li:hover > a,
-#primary-menu ul li.current > a { color: #1ABC9C; }
 
 #primary-menu > ul > li.sub-menu > a > div { }
 
@@ -2046,7 +2059,7 @@ body.top-search-open #top-account { opacity: 0; }
 	top: 0;
 	left: 0;
 	width: 100%;
-	background-color: #FFF;
+	background-color: #385858;
 	box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
@@ -2518,6 +2531,7 @@ body:not(.device-touch) #page-menu nav li a {
 
 .side-header #primary-menu ul > li.sub-menu > a,
 .side-header #primary-menu ul > li.sub-menu:hover > a { background-image: none !important; }
+
 
 .side-header #primary-menu ul > li.sub-menu > a:after {
 	position: absolute;
