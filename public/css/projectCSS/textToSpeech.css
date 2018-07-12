@@ -1,0 +1,125 @@
+#page_intro{
+    height: 550px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+    padding: 80px 0px;
+}
+
+#page_intro .page_intro_text{
+    color: #fff;
+    font-size: 22px;
+    line-height: 34px;
+}
+
+@media(max-width: 768px){
+    #page_intro{
+        height: auto;
+    }
+}
+
+@media(max-width: 425px){
+    #page_intro .page_intro_text{
+        font-size: 19px;
+        line-height: 30px;
+    }
+
+    #page_intro{
+        padding: 20px 0px;
+    }
+}
+
+.page-block:nth-child(odd){
+    padding:40px 0px;
+    color:black;
+    background-color: white;
+}
+
+.page-block:nth-child(even){
+    padding:40px 0px;
+    color:white;
+    background-color: #385858;
+}
+
+.page-block:nth-child(odd) .page-block-header{
+    color:#385858;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.page-block:nth-child(even) .page-block-header{
+    color:white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.page-block:nth-child(odd) .line{
+    margin: auto;
+    width: 70px;
+    position: relative;
+    border-top: 3px solid #385858;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+
+.page-block:nth-child(even) .line{
+    margin: auto;
+    width: 70px;
+    position: relative;
+    border-top: 3px solid white;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+
+.page-block-list{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.page-block-list li{
+    padding-bottom: 10px;
+}
+
+@media(max-width: 990px){
+    .page-block .col-md-5{
+        text-align: center;
+    }
+}
+
+.page-block .accordion.accordion-bg .acctitle, .accordion.accordion-bg .acctitlec{
+    font-size:17px;
+}
+
+.page-block .accordion{
+    font-size:18px ;
+}
+
+.get-started{
+    border: 2px solid #385858;
+    background-color: #385858;
+    position: relative;
+    z-index: 1;
+    border-radius: 4px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 45%;
+}
+
+.get-started:hover{
+    background-color: transparent;
+    color: white;
+}
+
+@media(max-width: 450px){
+    .get-started{
+        width: 55%;
+    }
+}
+
+.page-block-list ul{
+    margin-left: 20px;
+}

@@ -20,13 +20,13 @@
       <nav id="primary-menu" class="dark">
 
         <ul>
-          <li class="current"><a href="index.html"><div>Home</div></a></li>
+          <li class="current"><a href="{{route('home-page')}}"><div>Home</div></a></li>
 
           <li><a href="#"><div>Speech Tech</div></a>
             <ul>
-              <li><a href="#"><div>Text to speech</div></a></li>
-              <li><a href="widgets.html"><div>Speech recognation</div></a></li>
-              <li><a href="#"><div>Hafss</div></a></li>
+              <li><a href="{{route('textToSpeechPage')}}"><div>Text to speech</div></a></li>
+              <li><a href="{{route('speechRecognation')}}"><div>Speech recognation</div></a></li>
+              <li><a href="{{route('hafss')}}"><div>Hafss</div></a></li>
             </ul>
           </li>
 

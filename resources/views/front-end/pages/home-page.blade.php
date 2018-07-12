@@ -189,34 +189,34 @@
             <div class="col-md-12">
                 <div id="oc-clients" class="owl-carousel image-carousel carousel-widget" data-margin="20" data-nav="false" data-pagi="true" data-items-xxs="2" data-items-xs="3" data-items-sm="4" data-items-md="5" data-items-lg="6">
 
-                    <div class="oc-item"><a href="https://ec.europa.eu/"><img src="{{asset('images/siteImages/client1.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="http://www.elra.info/en/"><img src="{{asset('images/siteImages/client2.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="http://www.cengage.com/"><img src="{{asset('images/siteImages/client3.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="https://www.baidu.com/"><img src="{{asset('images/siteImages/client4.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="https://www.orange.com/en/home"><img src="{{asset('images/siteImages/client5.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="http://www.acapela-group.com/"><img src="{{asset('images/siteImages/client6.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="#"><img src="{{asset('images/siteImages/client7.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="https://www.raytheon.com/ourcompany/bbn"><img src="{{asset('images/siteImages/client8.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="https://www.essex.ac.uk/"><img src="{{asset('images/siteImages/client9.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="https://www.kacst.edu.sa"><img src="{{asset('images/siteImages/client10.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="https://www.microsoft.com/en-sa"><img src="{{asset('images/siteImages/client11.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="http://www.emgd.com/"><img src="{{asset('images/siteImages/client12.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="http://nahjj.com/"><img src="{{asset('images/siteImages/client13.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="http://www.kfas.org/ar/"><img src="{{asset('images/siteImages/client14.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="https://www.gust.edu.kw/"><img src="{{asset('images/siteImages/client15.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="http://islam.gov.kw"><img src="{{asset('images/siteImages/client16.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="http://www.redsoft.org/"><img src="{{asset('images/siteImages/client17.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="#"><img src="{{asset('images/siteImages/client18.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="https://schoolcity.com/"><img src="{{asset('images/siteImages/client19.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="https://www.qf.org.qa/"><img src="{{asset('images/siteImages/client20.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="https://www.sure.com.sa/"><img src="{{asset('images/siteImages/client21.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="https://www.aucegypt.edu/ar"><img src="{{asset('images/siteImages/client22.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="http://www.eelu.edu.eg/"><img src="{{asset('images/siteImages/client23.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="http://www.scu.eun.eg/"><img src="{{asset('images/siteImages/client24.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="https://www.intel.com"><img src="{{asset('images/siteImages/client25.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="http://www.mcit.gov.eg/"><img src="{{asset('images/siteImages/client26.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="http://arabiainform.com/"><img src="{{asset('images/siteImages/client27.jpeg')}}" alt="Clients"></a></div>
-                    <div class="oc-item"><a href="http://asgatech.com/AsgaSite/?lang=ar"><img src="{{asset('images/siteImages/client28.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="https://ec.europa.eu/"><img src="{{asset('images/siteImages/client1.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="http://www.elra.info/en/"><img src="{{asset('images/siteImages/client2.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="http://www.cengage.com/"><img src="{{asset('images/siteImages/client3.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="https://www.baidu.com/"><img src="{{asset('images/siteImages/client4.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="https://www.orange.com/en/home"><img src="{{asset('images/siteImages/client5.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="http://www.acapela-group.com/"><img src="{{asset('images/siteImages/client6.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="#"><img src="{{asset('images/siteImages/client7.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="https://www.raytheon.com/ourcompany/bbn"><img src="{{asset('images/siteImages/client8.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="https://www.essex.ac.uk/"><img src="{{asset('images/siteImages/client9.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="https://www.kacst.edu.sa"><img src="{{asset('images/siteImages/client10.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="https://www.microsoft.com/en-sa"><img src="{{asset('images/siteImages/client11.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="http://www.emgd.com/"><img src="{{asset('images/siteImages/client12.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="http://nahjj.com/"><img src="{{asset('images/siteImages/client13.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="http://www.kfas.org/ar/"><img src="{{asset('images/siteImages/client14.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="https://www.gust.edu.kw/"><img src="{{asset('images/siteImages/client15.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="http://islam.gov.kw"><img src="{{asset('images/siteImages/client16.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="http://www.redsoft.org/"><img src="{{asset('images/siteImages/client17.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="#"><img src="{{asset('images/siteImages/client18.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="https://schoolcity.com/"><img src="{{asset('images/siteImages/client19.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="https://www.qf.org.qa/"><img src="{{asset('images/siteImages/client20.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="https://www.sure.com.sa/"><img src="{{asset('images/siteImages/client21.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="https://www.aucegypt.edu/ar"><img src="{{asset('images/siteImages/client22.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="http://www.eelu.edu.eg/"><img src="{{asset('images/siteImages/client23.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="http://www.scu.eun.eg/"><img src="{{asset('images/siteImages/client24.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="https://www.intel.com"><img src="{{asset('images/siteImages/client25.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="http://www.mcit.gov.eg/"><img src="{{asset('images/siteImages/client26.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="http://arabiainform.com/"><img src="{{asset('images/siteImages/client27.jpeg')}}" alt="Clients"></a></div>
+                    <div class="oc-item"><a target="_blank" href="http://asgatech.com/AsgaSite/?lang=ar"><img src="{{asset('images/siteImages/client28.jpeg')}}" alt="Clients"></a></div>
 
                 </div>
 

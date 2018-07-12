@@ -13,3 +13,6 @@
 
 
 Route::get('/','ViewsController@homePage')->name('home-page');
+Route::get('/textToSpeech' , 'ViewsController@textToSpeechPage')->name('textToSpeechPage');
+Route::get('/speechRecognation' , 'ViewsController@speechRecognation')->name('speechRecognation');
+Route::get('/hafss' , 'ViewsController@hafss')->name('hafss');
