@@ -57,17 +57,17 @@
             </ul>
           </li>
 
-          <li><a href="#"><div>Industries</div></a></li>
+          <li><a href="{{route('industries')}}"><div>Industries</div></a></li>
 
           <li><a href="#"><div>About</div></a>
             <ul>
-              <li><a href="#"><div>About Us</div></a></li>
-              <li><a href="widgets.html"><div>Projects</div></a></li>
-              <li><a href="widgets.html"><div>Scientific Publishers</div></a></li>
-              <li><a href="widgets.html"><div>Awards</div></a></li>
-              <li><a href="widgets.html"><div>Structure</div></a></li>
-              <li><a href="widgets.html"><div>Customers</div></a></li>
-              <li><a href="widgets.html"><div>News</div></a></li>
+              <li><a href="{{route('about_us')}}"><div>About Us</div></a></li>
+              <li><a href="{{route('projects')}}"><div>Projects</div></a></li>
+              <li><a href="{{route('scientific_publishers')}}"><div>Scientific Publishers</div></a></li>
+              <li><a href="{{route('awards')}}"><div>Awards</div></a></li>
+              <li><a href="{{route('structure')}}"><div>Structure</div></a></li>
+              {{--<li><a href="widgets.html"><div>Customers</div></a></li>--}}
+              <li><a href="{{route('news')}}"><div>News</div></a></li>
               <li><a href="widgets.html"><div>Jobs</div></a></li>
               <li><a href="widgets.html"><div>Contact Us</div></a></li>
             </ul>

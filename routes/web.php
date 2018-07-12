@@ -28,3 +28,16 @@ Route::get('/handWritten' , 'ViewsController@handWritten')->name('handWritten');
 Route::get('/sentimentAnalysis' , 'ViewsController@sentimentAnalysis')->name('sentimentAnalysis');
 Route::get('/arabicTextDiacritizer' , 'ViewsController@arabicTextDiacritizer')->name('arabicTextDiacritizer');
 Route::get('/nlpToolKit' , 'ViewsController@nlpToolKit')->name('nlpToolKit');
+Route::get('/industries' , 'ViewsController@industries')->name('industries');
+
+Route::get('/about-us' , 'ViewsController@about_us')->name('about_us');
+Route::get('/projects' , 'ViewsController@projects')->name('projects');
+
+
+Route::get('/scientific-publishers' , 'ViewsController@scientific_publishers')->name('scientific_publishers');
+
+Route::get('/awards' , 'ViewsController@awards')->name('awards');
+Route::get('/structure' , 'ViewsController@structure')->name('structure');
+Route::get('/news' , 'ViewsController@news')->name('news');
+Route::get('/jobs' , 'ViewsController@jobs')->name('jobs');
+Route::get('/contact-us' , 'ViewsController@contact_us')->name('contact_us');

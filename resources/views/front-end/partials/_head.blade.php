@@ -15,6 +15,9 @@
 	<link rel="stylesheet" href="{{asset('css/magnific-popup.css')}}" type="text/css" />
 
 	<link rel="stylesheet" href="{{asset('css/responsive.css')}}" type="text/css" />
+	<link rel="stylesheet" href="{{asset('css/custom.css')}}" type="text/css" />
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 	<!-- Document Title

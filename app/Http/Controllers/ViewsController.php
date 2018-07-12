@@ -77,4 +77,47 @@ class ViewsController extends Controller
     public function nlpToolKit(){
         return view('front-end.pages.nlpToolKit-page');
     }
+
+    public function industries(){
+        return view('front-end.pages.industries');
+    }
+
+    public function about_us(){
+        return view('front-end.pages.about.about_us');
+
+    }
+
+    public function projects(){
+        return view('front-end.pages.about.projects');
+
+    }
+
+    public function scientific_publishers(){
+        return view('front-end.pages.about.scientific_publisher');
+
+    }
+
+    public function awards(){
+        return view('front-end.pages.about.awards');
+
+    }
+
+    public function structure(){
+        return view('front-end.pages.about.structure');
+
+    }
+
+    public function news(){
+        return view('front-end.pages.about.news');
+
+    }
+
+    public function jobs(){
+                return view('front-end.pages.about.jobs');
+    }
+
+    public function contact_us(){
+        return view('front-end.pages.about.contact-us');
+    }
 }
+
