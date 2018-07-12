@@ -20,7 +20,7 @@
                 <div class="col-md-4 col-md-push-4">
                     <img class="slider1-img" src="{{asset('images/siteImages/slider1-1.png')}}" />
                     <h3 class="slider1-content">Sotoor is the Arabic typewritten optical character recognition (OCR)</h3>
-                    <a class="btn btn-lg get-started">GET STARTED!</a>
+                    <a class="btn btn-lg get-started" href="{{route('typeWritten')}}">GET STARTED!</a>
                 </div>
             </div>
 
@@ -28,7 +28,7 @@
                 <div class="col-md-4 col-md-push-4">
                     <img class="slider1-img" src="{{asset('images/siteImages/slider1-2.png')}}" />
                     <h3 class="slider1-content">Kateb is the real time Automatic Speech Recognition (ASR)</h3>
-                    <a class="btn btn-lg get-started">GET STARTED!</a>
+                    <a class="btn btn-lg get-started" href="{{route('speechRecognation')}}">GET STARTED!</a>
                 </div>
             </div>
 
@@ -36,7 +36,7 @@
                 <div class="col-md-4 col-md-push-4">
                     <img class="slider1-img" src="{{asset('images/siteImages/slider1-3.png')}}" />
                     <h3 class="slider1-content">Natiq is the professional state-of-the-art text-to-speech software (TTS)</h3>
-                    <a class="btn btn-lg get-started">GET STARTED!</a>
+                    <a class="btn btn-lg get-started" href="{{route('textToSpeechPage')}}">GET STARTED!</a>
                 </div>
             </div>
 
@@ -44,7 +44,7 @@
                 <div class="col-md-4 col-md-push-4">
                     <img class="slider1-img" src="{{asset('images/siteImages/slider1-4.png')}}" />
                     <h3 class="slider1-content">Hafss is an innovative technology for teaching the Holy Qur'an</h3>
-                    <a class="btn btn-lg get-started">GET STARTED!</a>
+                    <a class="btn btn-lg get-started" href="{{route('hafss')}}">GET STARTED!</a>
                 </div>
             </div>
 
@@ -52,7 +52,7 @@
                 <div class="col-md-4 col-md-push-4">
                     <img class="slider1-img" src="{{asset('images/siteImages/slider1-5.png')}}" />
                     <h3 class="slider1-content">Tashkeel is the machine translation system and adding diacritics to bare letters</h3>
-                    <a class="btn btn-lg get-started">GET STARTED!</a>
+                    <a class="btn btn-lg get-started" href="{{route('arabicTextDiacritizer')}}">GET STARTED!</a>
                 </div>
             </div>
 
@@ -60,7 +60,7 @@
                 <div class="col-md-4 col-md-push-4">
                     <img class="slider1-img" src="{{asset('images/siteImages/slider1-6.png')}}" />
                     <h3 class="slider1-content">Araa is considered one of the best Arabic Sentiment Analysis solutions in terms of quality, price, accuracy and speed</h3>
-                    <a class="btn btn-lg get-started">GET STARTED!</a>
+                    <a class="btn btn-lg get-started" href="{{route('sentimentAnalysis')}}">GET STARTED!</a>
                 </div>
             </div>
 
@@ -90,10 +90,10 @@
                         <div class="oc-item">
                             <div class="testimonial">
                                 <div class="testi-image">
-                                    <a href="#"><img src="{{asset('images/siteImages/slider1-1.png')}}" alt="Customer Testimonails"></a>
+                                    <a href="{{route('typeWritten')}}"><img src="{{asset('images/siteImages/slider1-1.png')}}" alt="Customer Testimonails"></a>
                                 </div>
                                 <div class="testi-content">
-                                    <h3><a href="#">SOTOOR</a></h3>
+                                    <h3><a href="{{route('typeWritten')}}">SOTOOR</a></h3>
                                     <p>Sotoor is the all-in-one Arabic typewritten optical character recognition (OCR) software package that converts scanned images of Arabic documents into a fully editable and searchable text file. In addition to the accurate and reliable recognition engine, Sotoor is able to maintain the layout of the original document.</p>
 
                                 </div>
@@ -104,10 +104,10 @@
                     <div class="oc-item">
                         <div class="testimonial">
                             <div class="testi-image">
-                                <a href="#"><img src="{{asset('images/siteImages/slider1-2.png')}}" alt="Customer Testimonails"></a>
+                                <a href="{{route('speechRecognation')}}"><img src="{{asset('images/siteImages/slider1-2.png')}}" alt="Customer Testimonails"></a>
                             </div>
                             <div class="testi-content">
-                                <h3> <a href="#">KATEB</a></h3>
+                                <h3> <a href="{{route('speechRecognation')}}">KATEB</a></h3>
                                 <p>Kateb is the real time Automatic Speech Recognition (ASR) software solution that transcribes Arabic voice from recorded audio files into a fully editable and searchable text files. Kateb is supporting Modern Standard Arabic (MSA), and the Egyptian Dialectical Arabic. Kateb provides one of the best recognition.</p>
 
                             </div>
@@ -118,10 +118,10 @@
                         <div class="oc-item">
                             <div class="testimonial">
                                 <div class="testi-image">
-                                    <a href="#"><img src="{{asset('images/siteImages/slider1-3.png')}}" alt="Customer Testimonails"></a>
+                                    <a href="{{route('textToSpeechPage')}}"><img src="{{asset('images/siteImages/slider1-3.png')}}" alt="Customer Testimonails"></a>
                                 </div>
                                 <div class="testi-content">
-                                    <h3><a href="#">NATIQ</a></h3>
+                                    <h3><a href="{{route('textToSpeechPage')}}">NATIQ</a></h3>
                                     <p>Natiq is the professional state-of-the-art text-to-speech software provided by RDI that enables users to convert the Arabic row text into spoken words with different natural voices. This technology is built on Tashkeel (RDI Diacretizer) that converts the row text into diacretized text so that it can be converted into speech easily.</p>
                                 </div>
                             </div>
@@ -132,10 +132,10 @@
                         <div class="oc-item">
                             <div class="testimonial">
                                 <div class="testi-image">
-                                    <a href="#"><img src="{{asset('images/siteImages/slider1-4.png')}}" alt="Customer Testimonails"></a>
+                                    <a href="{{route('hafss')}}"><img src="{{asset('images/siteImages/slider1-4.png')}}" alt="Customer Testimonails"></a>
                                 </div>
                                 <div class="testi-content">
-                                    <h3><a href="#">HAFSS</a></h3>
+                                    <h3><a href="{{route('hafss')}}">HAFSS</a></h3>
                                     <p>Hafss© which has proved effective in helping people learn Tajweed of the holy Qur’an. Hafss© recites a verse, asks the learner to imitate it, analyzes the learner’s utterance, hence reports automatically about mistakes (if any) via an oral as well as written report. Hafss has been declared first in the 2007 WSA Award.</p>
                                 </div>
                             </div>
@@ -146,10 +146,10 @@
                         <div class="oc-item">
                             <div class="testimonial">
                                 <div class="testi-image">
-                                    <a href="#"><img src="{{asset('images/siteImages/slider1-5.png')}}" alt="Customer Testimonails"></a>
+                                    <a href="{{route('arabicTextDiacritizer')}}"><img src="{{asset('images/siteImages/slider1-5.png')}}" alt="Customer Testimonails"></a>
                                 </div>
                                 <div class="testi-content">
-                                    <h3><a href="#">TASHKEEL</a></h3>
+                                    <h3><a href="{{route('arabicTextDiacritizer')}}">TASHKEEL</a></h3>
                                     <p>Tashkeel is the machine translation system provided by RDI that enables users to convert Arabic row data into vocalized text through adding diacritics to bare letters. It combines statistical and rule-based approaches in order to make advantage of their integration while avoiding their disadvantages.</p>
                                 </div>
                             </div>
@@ -160,10 +160,10 @@
                         <div class="oc-item">
                             <div class="testimonial">
                                 <div class="testi-image">
-                                    <a href="#"><img src="{{asset('images/siteImages/slider1-6.png')}}" alt="Customer Testimonails"></a>
+                                    <a href="{{route('sentimentAnalysis')}}"><img src="{{asset('images/siteImages/slider1-6.png')}}" alt="Customer Testimonails"></a>
                                 </div>
                                 <div class="testi-content">
-                                    <h3><a href="#">ARAA</a></h3>
+                                    <h3><a href="{{route('sentimentAnalysis')}}">ARAA</a></h3>
                                     <p>Araa is multi-resource ground-breaking complete solution, integrating Automatic Speech Recognition (ASR), Sentiment Analysis technologies, and Arabic Natural Language Processing (NLP) techniques to enable Arabic social media text, Audio and Video recordings to be analyzed for sentiment analysis purposes.</p>
                                 </div>
                             </div>

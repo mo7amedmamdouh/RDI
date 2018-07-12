@@ -16,3 +16,8 @@ Route::get('/','ViewsController@homePage')->name('home-page');
 Route::get('/textToSpeech' , 'ViewsController@textToSpeechPage')->name('textToSpeechPage');
 Route::get('/speechRecognation' , 'ViewsController@speechRecognation')->name('speechRecognation');
 Route::get('/hafss' , 'ViewsController@hafss')->name('hafss');
+Route::get('/typeWritten' , 'ViewsController@typeWritten')->name('typeWritten');
+Route::get('/handWritten' , 'ViewsController@handWritten')->name('handWritten');
+Route::get('/sentimentAnalysis' , 'ViewsController@sentimentAnalysis')->name('sentimentAnalysis');
+Route::get('/arabicTextDiacritizer' , 'ViewsController@arabicTextDiacritizer')->name('arabicTextDiacritizer');
+Route::get('/nlpToolKit' , 'ViewsController@nlpToolKit')->name('nlpToolKit');

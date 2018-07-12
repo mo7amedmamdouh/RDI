@@ -24,4 +24,24 @@ class ViewsController extends Controller
     public function hafss(){
         return view('front-end.pages.hafss-page');
     }
+
+    public function typeWritten(){
+        return view('front-end.pages.typeWritten-page');
+    }
+
+    public function handWritten(){
+        return view('front-end.pages.handWritten-page');
+    }
+
+    public function sentimentAnalysis(){
+        return view('front-end.pages.sentimentAnalysis-page');
+    }
+
+    public function arabicTextDiacritizer(){
+        return view('front-end.pages.arabicTextDiacritizer-page');
+    }
+
+    public function nlpToolKit(){
+        return view('front-end.pages.nlpToolKit-page');
+    }
 }

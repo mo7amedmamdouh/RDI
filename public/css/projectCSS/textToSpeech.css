@@ -7,8 +7,14 @@
     padding: 80px 0px;
 }
 
-#page_intro .page_intro_text{
+.page_intro_text{
     color: #fff;
+    font-size: 22px;
+    line-height: 34px;
+}
+
+.page_intro_textv2{
+    color: black;
     font-size: 22px;
     line-height: 34px;
 }
