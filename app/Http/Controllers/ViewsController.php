@@ -24,4 +24,38 @@ class ViewsController extends Controller
     public function hafss(){
         return view('front-end.pages.hafss-page');
     }
+
+    public function e_learning(){
+        return view('front-end.pages.e-learning.e_learning');
+    }
+
+    public function e_learning_special_needs(){
+        return view('front-end.pages.e-learning.e_learning_special_needs');
+
+    }
+    public function e_training(){
+        return view('front-end.pages.e-learning.e_training');
+
+    }
+
+    public function languages_learning(){
+        return view('front-end.pages.e-learning.languages_training');
+
+    }
+
+    public function mobile_applications(){
+        return view('front-end.pages.e-learning.mobile_applications');
+
+    }
+
+    public function e_publishing(){
+        return view('front-end.pages.e-learning.e_publishing');
+
+    }
+
+    public function animation(){
+        return view('front-end.pages.e-learning.animation');
+
+    }
 }
+

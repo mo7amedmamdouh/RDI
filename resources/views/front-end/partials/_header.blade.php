@@ -47,13 +47,13 @@
 
           <li><a href="#"><div>E-Learning</div></a>
             <ul>
-              <li><a href="#"><div>E-Learning</div></a></li>
-              <li><a href="widgets.html"><div>E-Learning(Special Needs)</div></a></li>
-              <li><a href="widgets.html"><div>E-Training</div></a></li>
-              <li><a href="widgets.html"><div>Language Learning</div></a></li>
-              <li><a href="widgets.html"><div>Mobile Applications</div></a></li>
-              <li><a href="widgets.html"><div>E-publishing</div></a></li>
-              <li><a href="widgets.html"><div>2D & 3D Animation</div></a></li>
+              <li><a href="{{route('e_learning.e-learning')}}"><div>E-Learning</div></a></li>
+              <li><a href="{{route('e_learning.special_needs')}}"><div>E-Learning(Special Needs)</div></a></li>
+              <li><a href="{{route('e_learning.e_training')}}"><div>E-Training</div></a></li>
+              <li><a href="{{route('e_learning.languages_learning')}}"><div>Language Learning</div></a></li>
+              <li><a href="{{route('e_learning.mobile_applications')}}"><div>Mobile Applications</div></a></li>
+              <li><a href="{{route('e_learning.e_publishing')}}"><div>E-publishing</div></a></li>
+              <li><a href="{{route('e_learning.animation')}}"><div>2D & 3D Animation</div></a></li>
             </ul>
           </li>
 
