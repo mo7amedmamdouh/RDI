@@ -32,16 +32,16 @@
 
           <li><a href="#"><div>OCR Tech</div></a>
             <ul>
-              <li><a href="#"><div>Type written</div></a></li>
-              <li><a href="widgets.html"><div>Hand written</div></a></li>
+              <li><a href="{{route('typeWritten')}}"><div>Type written</div></a></li>
+              <li><a href="{{route('handWritten')}}"><div>Hand written</div></a></li>
             </ul>
           </li>
 
           <li><a href="#"><div>NLP Tech</div></a>
             <ul>
-              <li><a href="#"><div>Sentitment Analysis</div></a></li>
-              <li><a href="widgets.html"><div>Arabic Text Diacitizer</div></a></li>
-              <li><a href="widgets.html"><div>NLP Toolkit</div></a></li>
+              <li><a href="{{route('sentimentAnalysis')}}"><div>Sentitment Analysis</div></a></li>
+              <li><a href="{{route('arabicTextDiacritizer')}}"><div>Arabic Text Diacitizer</div></a></li>
+              <li><a href="{{route('nlpToolKit')}}"><div>NLP Toolkit</div></a></li>
             </ul>
           </li>
 

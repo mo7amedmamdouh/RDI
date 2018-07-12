@@ -25,6 +25,7 @@ class ViewsController extends Controller
         return view('front-end.pages.hafss-page');
     }
 
+
     public function e_learning(){
         return view('front-end.pages.e-learning.e_learning');
     }
@@ -56,6 +57,24 @@ class ViewsController extends Controller
     public function animation(){
         return view('front-end.pages.e-learning.animation');
 
+
+    public function typeWritten(){
+        return view('front-end.pages.typeWritten-page');
+    }
+
+    public function handWritten(){
+        return view('front-end.pages.handWritten-page');
+    }
+
+    public function sentimentAnalysis(){
+        return view('front-end.pages.sentimentAnalysis-page');
+    }
+
+    public function arabicTextDiacritizer(){
+        return view('front-end.pages.arabicTextDiacritizer-page');
+    }
+
+    public function nlpToolKit(){
+        return view('front-end.pages.nlpToolKit-page');
     }
 }
-
