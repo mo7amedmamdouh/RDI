@@ -56,7 +56,7 @@ class ViewsController extends Controller
 
     public function animation(){
         return view('front-end.pages.e-learning.animation');
-
+}
 
     public function typeWritten(){
         return view('front-end.pages.typeWritten-page');
