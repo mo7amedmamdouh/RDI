@@ -14,7 +14,7 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="col-md-6">
-                    <p class="page_intro_text">NLP Toolkit is the RDI’s framework of tools targeted at processing Arabic Language to apply its main NLP tasks. It includes powerful number of tools for Stemming, summarization, named entities recognition as well as many more features. NLP toolkit provides many building block libraries that make it easy to innovate without having to ..</p>
+                    <p class="page_intro_text">NLP Toolkit is the RDI’s framework of tools targeted at processing Arabic Language to apply its main NLP tasks. It includes powerful number of tools for Stemming, summarization, named entities recognition as well as many more features. NLP toolkit provides many building block libraries that make it easy to innovate without having to reinvent the wheel.</p>
                     {{--<a class="btn btn-lg get-started" href="https://www.rdi-sotoor.com/#/">TRY NOW!</a>--}}
                 </div>
             </div>

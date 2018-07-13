@@ -14,7 +14,7 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="col-md-6">
-                    <p class="page_intro_text"><strong>Hafss</strong> is an innovative technology for teaching the Holy Qur'an with the narration of Hafss on the authority of Assim. This is one of the most famous modes of reciting the Holy Qur'an. The main idea of the software depends on simulating the (session) of memorizing the Qur'an. Hafss recites the verse, asks the learner to do the same, and corrects the ..</p>
+                    <p class="page_intro_text"><strong>Hafss</strong> is an innovative technology for teaching the Holy Qur'an with the narration of Hafss on the authority of Assim. This is one of the most famous modes of reciting the Holy Qur'an. The main idea of the software depends on simulating the (session) of memorizing the Qur'an. Hafss recites the verse, asks the learner to do the same, and corrects the mistake, if any, orally and in writing. Then, Hafss asks the learner to recite it again and trains him/her on all rules of recitation until he/she gets Hafss' approval. Hafss is an easy-to-use software and it is highly accurate and quick.</p>
                     <a class="btn btn-lg get-started" href="http://www.hafss.net/">TRY NOW!</a>
                 </div>
             </div>

@@ -95,6 +95,12 @@
     }
 }
 
+@media(max-width: 768px){
+    .page-block-list{
+        text-align: left;
+    }
+}
+
 .page-block .accordion.accordion-bg .acctitle, .accordion.accordion-bg .acctitlec{
     font-size:17px;
 }
