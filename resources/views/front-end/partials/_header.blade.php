@@ -68,8 +68,8 @@
               <li><a href="{{route('structure')}}"><div>Structure</div></a></li>
               {{--<li><a href="widgets.html"><div>Customers</div></a></li>--}}
               <li><a href="{{route('news')}}"><div>News</div></a></li>
-              <li><a href="widgets.html"><div>Jobs</div></a></li>
-              <li><a href="widgets.html"><div>Contact Us</div></a></li>
+              <li><a href="{{route('jobs')}}"><div>Jobs</div></a></li>
+              <li><a href="{{route('contact_us')}}"><div>Contact Us</div></a></li>
             </ul>
           </li>
 

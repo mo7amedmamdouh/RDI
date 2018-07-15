@@ -5,7 +5,23 @@
 	Overwriting Default Theme Styles for Better Hanlding Updates
 -----------------------------------------------------------------*/
 
-
+.dark #primary-menu:not(.not-dark) ul ul, .dark #primary-menu:not(.not-dark) ul li .mega-menu-content, #primary-menu.dark ul ul, #primary-menu.dark ul li .mega-menu-content{
+background-color: #385858;
+border: none;
+border-top: 5px solid #fff;
+border-color: white;
+border-top-color: white;
+color: #fff;
+}
+.dark #primary-menu:not(.not-dark) ul ul li > a, #primary-menu.dark ul ul li > a{
+  color: #fff !important;
+}
+.dark #primary-menu:not(.not-dark) ul ul li:hover, #primary-menu.dark ul ul li:hover{
+  background-color: #fff !important;
+}
+.dark #primary-menu:not(.not-dark) ul ul li > a:hover, #primary-menu.dark ul ul li > a:hover{
+  color: #000 !important;
+}
 
 .footer-title
 {

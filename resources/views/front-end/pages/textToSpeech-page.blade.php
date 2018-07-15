@@ -2,6 +2,16 @@
 
 @section('styles')
     <link rel="stylesheet" href="{{asset('css/projectCSS/textToSpeech.css')}}">
+
+    <style media="screen">
+      p.justfy-content{
+        font-size: 16px;
+        text-align: justify;
+      }
+      p.justfy{
+        text-align: justify;
+      }
+    </style>
 @endsection
 
 
@@ -14,7 +24,7 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="col-md-6">
-                    <p class="page_intro_text"><strong>Natiq</strong> is the professional state-of-the-art text-to-speech software provided by RDI that enables users to convert the Arabic row text into spoken words with different natural voices. This technology is built on Tashkeel (RDI Diacretizer) that converts the row text into diacretized text so that it can be converted into speech easily. This easy-to-use robust software, admitting different users’ preferences, enables seamless audio-powered applications to enrich user experiences and engage audiences.</p>
+                    <p class="page_intro_text justfy"><strong>Natiq</strong> is the professional state-of-the-art text-to-speech software provided by RDI that enables users to convert the Arabic row text into spoken words with different natural voices. This technology is built on Tashkeel (RDI Diacretizer) that converts the row text into diacretized text so that it can be converted into speech easily. This easy-to-use robust software, admitting different users’ preferences, enables seamless audio-powered applications to enrich user experiences and engage audiences.</p>
                 </div>
             </div>
         </div>
@@ -29,21 +39,100 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="col-md-7">
-                        <ul class="page-block-list">
-                            <li>Full automatic text-to-speech conversion supported by abbreviation expansion and number-to-text conversion modules.</li>
-                            <li>Ability to enforce/ignore input diacritics.</li>
-                            <li>Provide built-in user-preferences custom dictionary.</li>
-                            <li>Support major text file formats (TXT, DOC, DOCX, HTML, and PDF).</li>
-                            <li>Natiq facilitates the process of following the text through highlighting the text currently being read.</li>
-                            <li>High-quality natural-sounding male & female voices.</li>
-                            <li>Support exporting outputs to audio files.</li>
+
+
+                  <div class="row">
+                    <div class="col-md-5">
+                      <div class="row">
+                          <div class="col-sm-2 col-xs-3">
+                            <div class="feature-box " data-animate="fadeIn">
+                								<div class="fbox-icon">
+                									<a href="#"><i class="icon-line-check"></i></a>
+                								</div>
+                							</div>
+                          </div>
+                          <div class="col-sm-10 col-xs-9">
+                            <p class="justfy-content">
+                              Full automatic text-to-speech conversion supported by abbreviation expansion and number-to-text conversion modules.
+                            </p>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="col-md-5 col-md-offset-1">
+                      <div class="row">
+                        <div class="col-sm-2 col-xs-3">
+                          <div class="feature-box " data-animate="fadeIn">
+                              <div class="fbox-icon">
+                                <a href="#"><i class="icon-line-check"></i></a>
+                              </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-10 col-xs-9">
+                          <p class="justfy-content">
+                            Full automatic text-to-speech conversion supported by abbreviation expansion and number-to-text conversion modules.
+                          </p>
+                        </div>
+
+                      </div>
+                    </div>
+                  </div>
+
+
+
+
+                    <!-- <div class="col-md-5">
+                        <ul class="page-block-list list-unstyled">
+                            <li style="margin-top:10px;">
+                              <div class="row">
+                                <div class="col-md-2">
+                                  <img class="services-image" src="http://localhost:8000/images/siteImages/slider1-2.png" alt="Customer Testimonails" style="hight:50px;width:50px; margin-right:5px;">
+                                </div>
+                                <div class="col-md-10">
+                                  Full automatic text-to-speech conversion supported by abbreviation expansion and number-to-text conversion modules.
+                                </div>
+                              </div>
+                          </li>
+                            <li style="margin-top:10px;">
+                              <div class="row">
+                                <div class="col-md-2">
+                                  <img class="services-image" src="http://localhost:8000/images/siteImages/slider1-2.png" alt="Customer Testimonails" style="hight:50px;width:50px; margin-right:5px;">
+                                </div>
+                                <div class="col-md-10">
+                                  Ability to enforce/ignore input diacritics.
+                                </div>
+                              </div>
+
+                            </li>
+
+                            <li style="margin-top:10px;">
+                              <div class="row">
+                                <div class="col-md-2">
+                                    <img class="services-image" src="http://localhost:8000/images/siteImages/slider1-2.png" alt="Customer Testimonails" style="hight:50px;width:50px; margin-right:5px;">
+                                  </div>
+                                  <div class="col-md-10">
+                                    Provide built-in user-preferences custom dictionary.
+                                  </div>
+                              </div>
+
+                              </li>
 
                         </ul>
-                    </div>
-                    <div class="col-md-5 text-right">
+                    </div> -->
+
+                    <!-- <div class="col-md-5 col-md-offset-1">
+                        <ul class="page-block-list list-unstyled">
+                            <li>Support major text file formats (TXT, DOC, DOCX, HTML, and PDF).</li>
+                            <li style="margin-top:10px;">Natiq facilitates the process of following the text through highlighting the text currently being read.</li>
+                            <li style="margin-top:10px;">High-quality natural-sounding male & female voices.</li>
+                            <li style="margin-top:10px;">Support exporting outputs to audio files.</li>
+
+                        </ul>
+                    </div> -->
+
+
+                    <!-- <div class="col-md-5 text-right">
                         <img src="{{asset('images/siteImages/headPhone.png')}}">
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
