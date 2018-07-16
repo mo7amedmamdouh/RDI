@@ -1,6 +1,6 @@
 <!-- Footer
 ============================================= -->
-<footer id="footer" class="dark">
+<footer id="footer" class="dark" style="background-image:url({{asset('images/siteImages/footer-bg.png')}})">
 
   <div class="container">
 

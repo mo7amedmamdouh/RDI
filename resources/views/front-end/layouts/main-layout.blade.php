@@ -2,7 +2,15 @@
 <html dir="ltr" lang="en-US">
 	<head>
 		@include('front-end.partials._head')
-
+		<style media="screen">
+      p.justfy-content{
+        font-size: 16px;
+        text-align: justify;
+      }
+      p.justfy{
+        text-align: justify;
+      }
+    </style>
 		@yield('styles')
 	</head>
 	<body class="stretched">

@@ -63,9 +63,9 @@
             <ul>
               <li><a href="{{route('about_us')}}"><div>About Us</div></a></li>
               <li><a href="{{route('projects')}}"><div>Projects</div></a></li>
-              <li><a href="{{route('scientific_publishers')}}"><div>Scientific Publishers</div></a></li>
+              <li><a href="{{route('scientific_publishers')}}"><div>Scientific Publications</div></a></li>
               <li><a href="{{route('awards')}}"><div>Awards</div></a></li>
-              <li><a href="{{route('structure')}}"><div>Structure</div></a></li>
+              {{-- <li><a href="{{route('structure')}}"><div>Structure</div></a></li> --}}
               {{--<li><a href="widgets.html"><div>Customers</div></a></li>--}}
               <li><a href="{{route('news')}}"><div>News</div></a></li>
               <li><a href="{{route('jobs')}}"><div>Jobs</div></a></li>

@@ -22,7 +22,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             The application teaches Photoshop to people with hearing impairments by presenting various tutorials accompanied by videos designed in sign language.
 
 
@@ -46,7 +46,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             The program aims to teach the principles and basics of using the computer for people with hearing disabilities by presenting the various tutorials accompanied by videos designed in sign language.
 
 
@@ -70,7 +70,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             At the beginning of 2012, RDI won the tenders for the implementation of educational curricula for children with special needs who are visually impaired and hearing impaired.
                             The company implemented the curricula of the fifth and sixth grades of the primary and the training of teachers and students on the productive curricula.
                             The company implemented these curricula and training in two deaf and dumb schools and two schools for the blind under the supervision of the Egyptian Ministry of Communications and Information, the Egyptian Ministry of Education, the United Nations Development Program and the Islamic Development Bank.

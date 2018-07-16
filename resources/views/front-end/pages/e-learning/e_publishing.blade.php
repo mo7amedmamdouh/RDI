@@ -26,7 +26,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             RDI has implemented the electronic magazine project for the Science magazine in Kuwait. The contents of the various magazine issues have been transferred to electronic copies on the website of the magazine that the company has implemented. The article is presented using the company's linguistic techniques. The site contains a syntactic & semantic search engine where the user can browse and navigate the contents of the site.
 
 
@@ -50,7 +50,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             Based on RDI’s human spoken andwritten language technologies,  RDI has developed an innovative an inclusive solution where the book is introduced in a different style that matches the pace of the era. RDI’s e-Book compromises the following features: User-friendly browsing and navigation through the book content. Advanced Arabic text search engine. Arabic dictionaries that is dynamically bound to the text and the reader can know all the details related to the word meaning, root … by just a simple click. The ability to synthetically read any chosen part of the book. Dynamic adaptation of the appearance (font features, size, color…).
 
 

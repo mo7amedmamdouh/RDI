@@ -24,7 +24,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             Within the scope of the Egyptian Ministry of Communications project to support and develop online content, RDI has implemented a project to transform 85 children's stories for the Ministry into two-dimensional animation.
 
 
@@ -49,7 +49,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             The company has implemented the project of 30 episodes " MHOMOS & BONDOK Adventures", a three-dimensional animated series that deals with children's education of good and public morals. Episodes are prepared in simple classical Arabic.
 
 

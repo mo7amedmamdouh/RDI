@@ -6,7 +6,8 @@
 -----------------------------------------------------------------*/
 
 .dark #primary-menu:not(.not-dark) ul ul, .dark #primary-menu:not(.not-dark) ul li .mega-menu-content, #primary-menu.dark ul ul, #primary-menu.dark ul li .mega-menu-content{
-background-color: #385858;
+  background-color: rgba(56, 88, 88, 0.8);
+
 border: none;
 border-top: 5px solid #fff;
 border-color: white;
@@ -18,6 +19,9 @@ color: #fff;
 }
 .dark #primary-menu:not(.not-dark) ul ul li:hover, #primary-menu.dark ul ul li:hover{
   background-color: #fff !important;
+}
+.dark #primary-menu:not(.not-dark) ul ul li:hover > a, #primary-menu.dark ul ul li:hover > a{
+  background: none !important;
 }
 .dark #primary-menu:not(.not-dark) ul ul li > a:hover, #primary-menu.dark ul ul li > a:hover{
   color: #000 !important;
@@ -62,4 +66,12 @@ color: #fff;
     height: 30px;
     text-align: center;
     font-size: 16px;
+}
+
+.custom-jobs .acc_content{
+  display: none;
+border: 1px solid rgb(204, 204, 204);
+padding: 37px;
+margin-bottom: 13px;
+
 }

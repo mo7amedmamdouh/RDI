@@ -2,10 +2,11 @@
 
 @section('styles')
     <link rel="stylesheet" href="{{asset('css/projectCSS/textToSpeech.css')}}">
+
 @endsection
 
 
-@section('title','Scientific Publisher')
+@section('title','Scientific Publications')
 
 
 @section('content')

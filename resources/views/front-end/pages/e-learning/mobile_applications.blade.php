@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             The first application designed to help visually impaired people to identify data on drugs using a smart phone camera. The application identifies the names of different medicines as well as their prices and reasons for use through the barcodes located on the medicine package.
                             The application displays the results and converts them into audio outputs for the user to listen to. The program contains a large database of pharmaceutical data.
 
@@ -54,7 +54,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             The first application designed to help visually impaired people to identify the value of banknotes and colors names using smart phone camera.
                             The application can recognize the value of banknotes from different angles. The application displays the results and converts them into audio outputs for the user to listen to.
 
@@ -84,7 +84,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             The application is designed to enable people with hearing disabilities to deal and communicate with services providers in supermarkets through the use of a large database of store-related images. The application converts selected images to user-defined markings as well as textual outputs understood by the service provider in the store.
 
 

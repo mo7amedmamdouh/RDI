@@ -2,6 +2,7 @@
 
 @section('styles')
     <link rel="stylesheet" href="{{asset('css/projectCSS/textToSpeech.css')}}">
+    
 @endsection
 
 
@@ -32,7 +33,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             HAFSS was recommended by many local and international prominent scholars including sheikh Muhammed Jibril and Dr. Ahmed Al-Ma’sarawi – Sheikh of Egyptian General Recitation session.
 
                             We launched Hafss product <a href="www.hafss.net">www.hafss.net</a>  in 2007 and it was a success story not only for RDI but also for Egypt as the first winner of the WSA (World Summit Award) http://www.wsis-award.org in the area of innovative e-learning solution among 160 countries and 850 products.
@@ -57,7 +58,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             Cengage Learning is an international company and its branch in London working in Digital Libraries. The task had been to digitize the Arabic books in the British Library. During the project RDI-EG have processed around 900,000 pages by the RDI-OCR system.
 
 
@@ -81,7 +82,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             RDI has Completed the 2013 tenders of MCIT for E-Learning Development courses for Hearing and Visually Impaired Students in Egypt, these courses include Science, Math and IT curriculums for both primary five and six to be printed and distributed on CDs besides being on Erada and Tawasol web sites.
 
 
@@ -107,7 +108,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             In cooperation with RDI; the Riyadh Schools in KSA is running an empirical study to sense the impact of applying RDI's technology Hafss© on the learners of Tajweed. Due to the sincere efforts expended by RDI in this field research, as well as the attested positive impact of this technology on learning the Tajweed of Qur'an; Riyadh Schools has awarded RDI its e-Learning certificate of honors.
 
                     </div>
@@ -132,7 +133,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             ITIDA awarded RDI about Semantic Search Engine For Arabic Information Retrieval project a certificate of completion for successful completion of ICT product development activities required as part of MSE project 2015.
 
 
@@ -157,7 +158,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             ITIDA awarded RDI about Arabic Text Mining Toolkit project a certificate of completion for successful completion of ICT product development activities required as part of MSE project 2014.
 
 
@@ -184,7 +185,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             RDI completed Grow IT program successfully sponsored by the Information Technology Industry Development Agency ITIDA.
                             <br>
 

@@ -2,6 +2,7 @@
 
 @section('styles')
     <link rel="stylesheet" href="{{asset('css/projectCSS/textToSpeech.css')}}">
+
 @endsection
 
 
@@ -21,7 +22,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             RDI is the leader in the area of Arabic Language technologies. RDI have developed line of products and provides number of services in the area of Speech Processing, Character Recognition, and Natural Language Processing.Being a leader in that area, it is willing to invest in developing unique products and services.
                         </p>
 
@@ -41,11 +42,11 @@
             <hr class="line"/>
         </div>
 
-        <div class="container">
+        <div class="container custom-jobs">
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             The following positions and corresponding qualifications are the most interesting ones to RDI whenever new employees are sought to join RDI family:
 
 
@@ -326,7 +327,6 @@
 
 @section('scripts')
     {{-- Add Scripts Here --}}
-
 
 
 @endsection

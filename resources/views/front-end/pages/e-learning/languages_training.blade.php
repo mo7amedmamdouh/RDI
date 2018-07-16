@@ -24,7 +24,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             At the end of 2012, RDI won the tender for the implementation of a special web-site for the Al-Jazeera Media Network for the implementation of two levels of teaching Arabic language for business to non-Arabic speakers.
 
 

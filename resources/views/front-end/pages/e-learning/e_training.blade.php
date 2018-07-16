@@ -23,7 +23,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             In 2017, RDI won the tender for the preparation of ‘training content’ aimed at developing the managerial skills of young people in (The Administrative and Executive Secretariat - Warehouse Management).
 
                         </p>
@@ -46,7 +46,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             In 2015, RDI won the tender for the preparation of ‘training content’ to support the employment of persons with disabilities, with an emphasis on ICT-based solutions.
                             Through e-learning solutions, PWD can train in some skills that provide them with jobs (in the field of graphics).
 

@@ -2,6 +2,7 @@
 
 @section('styles')
     <link rel="stylesheet" href="{{asset('css/projectCSS/textToSpeech.css')}}">
+    
 @endsection
 
 
@@ -23,7 +24,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             RDI participated in the fourth round of "Tamkeen 2017" Competition, aiming to develop software and mobile phones applications for People with Disabilities (PwDs). The competition is held under the support for technological innovation and creation of the Ministry of Communications and Information Technology (MCIT).
 
 
@@ -62,7 +63,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             Third prize in speech recognition track from Multi-Genre Broadcast (MGB) Challenge for RDI’s Arabic speech recognition; 2017.
 
 
@@ -90,7 +91,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             RDI won the eighth prize for an “Encyclopedia of the Holy Quran for the Blind” in third round of "Tamkeen 2016" Competition, aiming to develop software and mobile phones applications for People with Disabilities (PwDs). The competition is held under the support for technological innovation and creation of the Ministry of Communications and Information Technology (MCIT).
 
 
@@ -120,7 +121,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             First prize in Intrinsic Plagiarism Detection track from PAN-AraPlagDet competition for RDI ’s Arabic Plagiarism Detection System ; 2015. http://misc-umc.org/AraPlagDet/?ckattempt=1
 
                         </p>
@@ -146,7 +147,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             RDI had been selected for Egypt Innovate ICT Award 2014,
 
                             The competition aims to reveal the latest innovations and innovations in the Egyptian IT companies. Only 42 companies selected out of 132 companies submitted for the competition
@@ -179,7 +180,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             RDI placed third in Jan25 ICT Innovation Award 2011 for inventing an application that contributes to making online e-content readable with voice.
 
                             Only 7 companies shortlisted in the “Jan25 ICT Innovation Award 2011” out of the 87 received applications for the prize. Only 4 companies of those won.
@@ -209,7 +210,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             First prize in the 2007 World Summit Award (WSA) contest for the best e-content/e-Learning track where about 850 other candidates from 160 countries had participated. This international prize is awarded for RDI's Hafss© technology for the interactive learning of spoken language applied on the Tajweed.
                             <a href="https://www.worldsummitawards.org/winner/hafss/">https://www.worldsummitawards.org/winner/hafss/</a>
                             <a href="https://www.youtube.com/watch?v=CUIF_a9OrrU">https://www.youtube.com/watch?v=CUIF_a9OrrU</a>
@@ -238,7 +239,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             e-Content Award (second prize) in the e-Science track from the Egyptian IT Industry Development Agency (ITIDA) for RDI ’s Virtual Labs application; 2005.
 
                         </p>
@@ -262,7 +263,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             Best 3D animation for RDI’s 1st episode of “Hummus & Bunduq” in the 8th Egyptian Festival of Radio & Television, 2002.
 
                         </p>
@@ -288,7 +289,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             Best multimedia title on Jerusalem from PC-Magazine (Middle East); 2000.
 
 
@@ -316,7 +317,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             Best of GITEX 1996; for the (by then) novel technology of Speech Compression.
 
 

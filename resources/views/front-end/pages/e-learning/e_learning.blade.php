@@ -34,7 +34,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             In 2009, the Egyptian GNSE-RDI-Bian won the tender of the Egyptian University
                             of e-Learning for the development of electronic curricula of the university over two years.
                             This is the first university of its kind in the Arab Republic of Egypt. The idea of the project is
@@ -60,7 +60,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             RDI has implemented a large number of secondary education units in many Gulf countries, in order to transform the scientific content of a number of subjects into electronic content with new and advanced capabilities in the field of multimedia and e-learning.
 
                         </p>
@@ -83,7 +83,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             The idea of the project is to transform educational curricula in
                             the Libyan Arab Jamahiriya into electronic curricula that benefit from
                             the successive developments in the field of e-learning and multimedia.
@@ -112,7 +112,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             RDI developed Saudi curriculum from the fourth primary grade to the third secondary grade, which included the conversion of textbooks into e-books as well as more than one thousand and one hundred educational components.
                             Microsoft has purchased a copy of this work for the Ministry of Education through Majid the partner company in charge of marketing the project at the time.                        </p>
                     </div>
@@ -136,7 +136,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead">
+                        <p class="lead justfy">
                             RDI has implemented the e-learning project of the Smart School for the primary stage. The content of the curriculum has been reformulated in a different way. It differs from the content of the textbook and achieves the same objectives. It is suitable for the primary stage in terms of presentation of the educational material, questions banks and education games to enrich the child's mind at this age, along with the desired educational and upbringing goal, based on cumulative educational experience with RDI.
 
                     </div>
