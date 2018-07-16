@@ -41,21 +41,130 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="col-md-7">
-                        <ul class="page-block-list">
-                            <li>Open vocabulary coverage. Can recognize any Arabic words as sequence of Arabic characters.</li>
-                            <li>As settings to tune the writing speed and the intra-words spaces.</li>
-                            <li>As API to be integrated with other applications.</li>
-                            <li>Possibility to provide n-best alternatives for the recognition result.</li>
-                            <li>Can work either online or in batch mode. </li>
-                            <li>Ability to correct the recognition errors using a post processing editor.</li>
+                    {{--<div class="col-md-7">--}}
+                        {{--<ul class="page-block-list">--}}
+                            {{--<li>Open vocabulary coverage. Can recognize any Arabic words as sequence of Arabic characters.</li>--}}
+                            {{--<li>As settings to tune the writing speed and the intra-words spaces.</li>--}}
+                            {{--<li>As API to be integrated with other applications.</li>--}}
+                            {{--<li>Possibility to provide n-best alternatives for the recognition result.</li>--}}
+                            {{--<li>Can work either online or in batch mode. </li>--}}
+                            {{--<li>Ability to correct the recognition errors using a post processing editor.</li>--}}
 
-                        </ul>
+                        {{--</ul>--}}
+                    {{--</div>--}}
+
+                    {{--<div class="col-md-5">--}}
+                        {{--<img src="{{asset('images/siteImages/words.jpeg')}}">--}}
+                    {{--</div>--}}
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Open vocabulary coverage. Can recognize any Arabic words as sequence of Arabic characters.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        As settings to tune the writing speed and the intra-words spaces.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
 
-                    <div class="col-md-5">
-                        <img src="{{asset('images/siteImages/words.jpeg')}}">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        As API to be integrated with other applications.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Possibility to provide n-best alternatives for the recognition result.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Can work either online or in batch mode.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Ability to correct the recognition errors using a post processing editor.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>

@@ -30,20 +30,113 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="col-md-7">
-                        <ul class="page-block-list">
-                            <li>Hafss provides an audio collection of attractive, famous poems that sum up the rules of Qur'an Tajweed (Tuhfat Al-Atfal).</li>
-                            <li>Hafss can automatically analyze the recitation of the learner to decide about its correctness, and produce a comprehensive report about learner’s errors, if any.</li>
-                            <li>Generate a detailed report setting out the occurrences of the mistakes committed by the learner.</li>
-                            <li>Provide numerous textual, audio, and visual means to help learners enhance their recitation performance.</li>
-                            <li>Provide consistent synchronization between speech spans and resultant text.</li>
-                            <li>Animated and colored explanations that teach you how to easily produce the proper points of articulation.</li>
+                    {{--<div class="col-md-7">--}}
+                        {{--<ul class="page-block-list">--}}
+                            {{--<li>Hafss provides an audio collection of attractive, famous poems that sum up the rules of Qur'an Tajweed (Tuhfat Al-Atfal).</li>--}}
+                            {{--<li>Hafss can automatically analyze the recitation of the learner to decide about its correctness, and produce a comprehensive report about learner’s errors, if any.</li>--}}
+                            {{--<li>Generate a detailed report setting out the occurrences of the mistakes committed by the learner.</li>--}}
+                            {{--<li>Provide numerous textual, audio, and visual means to help learners enhance their recitation performance.</li>--}}
+                            {{--<li>Provide consistent synchronization between speech spans and resultant text.</li>--}}
+                            {{--<li>Animated and colored explanations that teach you how to easily produce the proper points of articulation.</li>--}}
 
-                        </ul>
+                        {{--</ul>--}}
+                    {{--</div>--}}
+                    {{--<div class="col-md-5 text-right">--}}
+                        {{--<img src="{{asset('images/siteImages/hafss2.png')}}">--}}
+                    {{--</div>--}}
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Hafss provides an audio collection of attractive, famous poems that sum up the rules of Qur'an Tajweed (Tuhfat Al-Atfal).
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Hafss can automatically analyze the recitation of the learner to decide about its correctness, and produce a comprehensive report about learner’s errors, if any.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-md-5 text-right">
-                        <img src="{{asset('images/siteImages/hafss2.png')}}">
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Generate a detailed report setting out the occurrences of the mistakes committed by the learner.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Provide numerous textual, audio, and visual means to help learners enhance their recitation performance.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Animated and colored explanations that teach you how to easily produce the proper points of articulation.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
                 </div>
             </div>
         </div>

@@ -30,27 +30,158 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="col-md-7">
-                        <ul class="page-block-list">
-                            <li>Support different audio sampling rates. 16KHZ (16 bit per sample) sampling rate is recommended.</li>
-                            <li>Kateb has a real time performing recognizer that transcribes Arabic voice at least 5 times faster than typing while maintaining high recognition rates.</li>
-                            <li>Support major audio/video file formats as well as all types of files that follow the FFmpeg formats.</li>
-                            <li>Transcribed text can be saved in one of the following file formats:
-                                <ul style="list-style-type:circle">
-                                    <li>TXT, CSV</li>
-                                    <li>HTML, RTF, ODT and DOCX</li>
-                                    <li>PDF (searchable and/or secured)</li>
-                                </ul>
-                            </li>
-                            <li>Provide consistent synchronization between speech spans and resultant text.</li>
-                            <li>Kateb admits large vocabulary, thus it has ability to recognize wide range of unusual Arabic words.</li>
-                            <li>Kateb has a speech and silence detection module that precedes the recognizer.</li>
+                    {{--<div class="col-md-7">--}}
+                        {{--<ul class="page-block-list">--}}
+                            {{--<li>Support different audio sampling rates. 16KHZ (16 bit per sample) sampling rate is recommended.</li>--}}
+                            {{--<li>Kateb has a real time performing recognizer that transcribes Arabic voice at least 5 times faster than typing while maintaining high recognition rates.</li>--}}
+                            {{--<li>Support major audio/video file formats as well as all types of files that follow the FFmpeg formats.</li>--}}
+                            {{--<li>Transcribed text can be saved in one of the following file formats:--}}
+                                {{--<ul style="list-style-type:circle">--}}
+                                    {{--<li>TXT, CSV</li>--}}
+                                    {{--<li>HTML, RTF, ODT and DOCX</li>--}}
+                                    {{--<li>PDF (searchable and/or secured)</li>--}}
+                                {{--</ul>--}}
+                            {{--</li>--}}
+                            {{--<li>Provide consistent synchronization between speech spans and resultant text.</li>--}}
+                            {{--<li>Kateb admits large vocabulary, thus it has ability to recognize wide range of unusual Arabic words.</li>--}}
+                            {{--<li>Kateb has a speech and silence detection module that precedes the recognizer.</li>--}}
 
-                        </ul>
+                        {{--</ul>--}}
+                    {{--</div>--}}
+                    {{--<div class="col-md-5 text-right">--}}
+                        {{--<img src="{{asset('images/siteImages/hz.png')}}">--}}
+                    {{--</div>--}}
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Support different audio sampling rates. 16KHZ (16 bit per sample) sampling rate is recommended.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Kateb has a real time performing recognizer that transcribes Arabic voice at least 5 times faster than typing while maintaining high recognition rates.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-md-5 text-right">
-                        <img src="{{asset('images/siteImages/hz.png')}}">
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Support major audio/video file formats as well as all types of files that follow the FFmpeg formats.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Transcribed text can be saved in one of the following file formats:
+                                        TXT, CSV , HTML, RTF, ODT and DOCX , PDF (searchable and/or secured)
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Provide consistent synchronization between speech spans and resultant text.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Kateb admits large vocabulary, thus it has ability to recognize wide range of unusual Arabic words.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Kateb has a speech and silence detection module that precedes the recognizer.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+
                 </div>
             </div>
         </div>

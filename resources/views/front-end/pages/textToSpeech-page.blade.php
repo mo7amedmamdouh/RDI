@@ -46,10 +46,10 @@
                       <div class="row">
                           <div class="col-sm-2 col-xs-3">
                             <div class="feature-box " data-animate="fadeIn">
-                								<div class="fbox-icon">
-                									<a href="#"><i class="icon-line-check"></i></a>
-                								</div>
-                							</div>
+                                <div class="fbox-icon">
+                                    <a href="#"><i class="icon-line-check"></i></a>
+                                </div>
+                            </div>
                           </div>
                           <div class="col-sm-10 col-xs-9">
                             <p class="justfy-content">
@@ -76,6 +76,100 @@
                       </div>
                     </div>
                   </div>
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Provide built-in user-preferences custom dictionary.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Support major text file formats (TXT, DOC, DOCX, HTML, and PDF).
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Natiq facilitates the process of following the text through highlighting the text currently being read.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        High-quality natural-sounding male & female voices.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Support exporting outputs to audio files.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
 
 
 

@@ -30,22 +30,167 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="col-md-7">
-                        <ul class="page-block-list">
-                            <li>Supported Data Sources include - But not limited to- Tweeter, Facebook, You tube, TV Channels, Recorded Phone Calls, customers owned database.</li>
-                            <li>Recognize if the opinion expressed within content is positive, negative, or neutral.</li>
-                            <li>Provide trends and topic clustering modules.</li>
-                            <li>Recommend influencers, communities, and issues that you should address.</li>
-                            <li>Support user defined word-exclusion list.</li>
-                            <li>Build your own customizable powerful dashboards and reports to monitor trends almost in real-time.</li>
-                            <li>Provide APIs to enable users to leverage the true value of sentiment analysis through integration with third parties.</li>
-                            <li>Ability to learn new terms that may have different sentiments.</li>
+                    {{--<div class="col-md-7">--}}
+                        {{--<ul class="page-block-list">--}}
+                            {{--<li>Supported Data Sources include - But not limited to- Tweeter, Facebook, You tube, TV Channels, Recorded Phone Calls, customers owned database.</li>--}}
+                            {{--<li>Recognize if the opinion expressed within content is positive, negative, or neutral.</li>--}}
+                            {{--<li>Provide trends and topic clustering modules.</li>--}}
+                            {{--<li>Recommend influencers, communities, and issues that you should address.</li>--}}
+                            {{--<li>Support user defined word-exclusion list.</li>--}}
+                            {{--<li>Build your own customizable powerful dashboards and reports to monitor trends almost in real-time.</li>--}}
+                            {{--<li>Provide APIs to enable users to leverage the true value of sentiment analysis through integration with third parties.</li>--}}
+                            {{--<li>Ability to learn new terms that may have different sentiments.</li>--}}
 
-                        </ul>
+                        {{--</ul>--}}
+                    {{--</div>--}}
+                    {{--<div class="col-md-5 text-right">--}}
+                        {{--<img src="{{asset('images/siteImages/emotions.png')}}">--}}
+                    {{--</div>--}}
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Supported Data Sources include - But not limited to- Tweeter, Facebook, You tube, TV Channels, Recorded Phone Calls, customers owned database.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Recognize if the opinion expressed within content is positive, negative, or neutral.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-md-5 text-right">
-                        <img src="{{asset('images/siteImages/emotions.png')}}">
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Provide trends and topic clustering modules.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Recommend influencers, communities, and issues that you should address.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Support user defined word-exclusion list.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Build your own customizable powerful dashboards and reports to monitor trends almost in real-time.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Provide APIs to enable users to leverage the true value of sentiment analysis through integration with third parties.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Ability to learn new terms that may have different sentiments.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>

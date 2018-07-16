@@ -135,3 +135,22 @@
 .page-block-list ul{
     margin-left: 20px;
 }
+
+p.justfy-content{
+    font-size: 16px;
+    text-align: justify;
+    height: 70px;
+}
+
+@media(max-width: 450px){
+    p.justfy-content{
+        font-size: 16px;
+        text-align: justify;
+        height: auto;
+    }
+
+}
+
+p.justfy{
+    text-align: justify;
+}

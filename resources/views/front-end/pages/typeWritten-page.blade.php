@@ -2,6 +2,23 @@
 
 @section('styles')
     <link rel="stylesheet" href="{{asset('css/projectCSS/textToSpeech.css')}}">
+
+    <style media="screen">
+        p.justfy-content{
+            font-size: 16px;
+            text-align: justify;
+            height: 105px;
+        }
+
+        @media(max-width: 450px){
+            p.justfy-content{
+                font-size: 16px;
+                text-align: justify;
+                height: auto;
+            }
+
+        }
+    </style>
 @endsection
 
 
@@ -30,28 +47,174 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="col-md-7">
-                        <ul class="page-block-list">
-                            <li>Support major input image formats (JPEG, PNG, BMP, HDR, PSD, TGA, PIC, PGM, PPM) and PDF.</li>
-                            <li>Extracted text can be downloaded as one of the following file formats:
-                                <ul style="list-style-type:circle">
-                                    <li>PDF.</li>
-                                    <li>Editable formats: DOC(X), HTML, RTF, TXT, and ODT.</li>
-                                    <li>E-book formats: EPUB, FB2.</li>
-                                </ul>
-                            </li>
-                            <li>Provide single page as well as batch recognition strategies.</li>
-                            <li>Recognize texts on scans and photos of different types of Arabic Documents (Newspapers, Computer printed Documents). Future releases will support new types (Captions, Historical typewritten and handwritten manuscripts).</li>
-                            <li>Different resolutions are supported by the recognition engine, 300 dpi resolution images are recommended.</li>
-                            <li>Improve the quality of input images via perspective correction and noise removal stages to guarantee higher recognition rates.</li>
-                            <li>The sophisticated editor displays the recognized text side by side with the original input image to smooth the way for reviewing outputs.</li>
-                            <li>Provide automated and customized conversion procedures with workflows.</li>
+                    {{--<div class="col-md-7">--}}
+                        {{--<ul class="page-block-list">--}}
+                            {{--<li>Support major input image formats (JPEG, PNG, BMP, HDR, PSD, TGA, PIC, PGM, PPM) and PDF.</li>--}}
+                            {{--<li>Extracted text can be downloaded as one of the following file formats:--}}
+                                {{--<ul style="list-style-type:circle">--}}
+                                    {{--<li>PDF.</li>--}}
+                                    {{--<li>Editable formats: DOC(X), HTML, RTF, TXT, and ODT.</li>--}}
+                                    {{--<li>E-book formats: EPUB, FB2.</li>--}}
+                                {{--</ul>--}}
+                            {{--</li>--}}
+                            {{--<li>Provide single page as well as batch recognition strategies.</li>--}}
+                            {{--<li>Recognize texts on scans and photos of different types of Arabic Documents (Newspapers, Computer printed Documents). Future releases will support new types (Captions, Historical typewritten and handwritten manuscripts).</li>--}}
+                            {{--<li>Different resolutions are supported by the recognition engine, 300 dpi resolution images are recommended.</li>--}}
+                            {{--<li>Improve the quality of input images via perspective correction and noise removal stages to guarantee higher recognition rates.</li>--}}
+                            {{--<li>The sophisticated editor displays the recognized text side by side with the original input image to smooth the way for reviewing outputs.</li>--}}
+                            {{--<li>Provide automated and customized conversion procedures with workflows.</li>--}}
 
-                        </ul>
+                        {{--</ul>--}}
+                    {{--</div>--}}
+                    {{--<div class="col-md-5 text-right">--}}
+                        {{--<img src="{{asset('images/siteImages/book2.png')}}">--}}
+                    {{--</div>--}}
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Support major input image formats (JPEG, PNG, BMP, HDR, PSD, TGA, PIC, PGM, PPM) and PDF.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Extracted text can be downloaded as one of the following file formats:
+                                        <small>PDF , Editable formats: DOC(X), HTML, RTF, TXT, and ODT , E-book formats: EPUB, FB2.</small>
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-md-5 text-right">
-                        <img src="{{asset('images/siteImages/book2.png')}}">
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Provide single page as well as batch recognition strategies.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Recognize texts on scans and photos of different types of Arabic Documents (Newspapers, Computer printed Documents). Future releases will support new types (Captions, Historical typewritten and handwritten manuscripts).
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Different resolutions are supported by the recognition engine, 300 dpi resolution images are recommended.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Improve the quality of input images via perspective correction and noise removal stages to guarantee higher recognition rates.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        The sophisticated editor displays the recognized text side by side with the original input image to smooth the way for reviewing outputs.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-sm-2 col-xs-3">
+                                    <div class="feature-box " data-animate="fadeIn">
+                                        <div class="fbox-icon">
+                                            <a href="#"><i class="icon-line-check"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-10 col-xs-9">
+                                    <p class="justfy-content">
+                                        Provide automated and customized conversion procedures with workflows.
+                                    </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
