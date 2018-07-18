@@ -25,6 +25,7 @@
             <div class="col-md-12">
                 <div class="col-md-6">
                     <p class="page_intro_text justfy"><strong>Natiq</strong> is the professional state-of-the-art text-to-speech software provided by RDI that enables users to convert the Arabic row text into spoken words with different natural voices. This technology is built on Tashkeel (RDI Diacretizer) that converts the row text into diacretized text so that it can be converted into speech easily. This easy-to-use robust software, admitting different users’ preferences, enables seamless audio-powered applications to enrich user experiences and engage audiences.</p>
+                    <a class="btn btn-lg get-started" href="https://rdi-kateb.com/#/">TRY NOW!</a>
                 </div>
             </div>
         </div>

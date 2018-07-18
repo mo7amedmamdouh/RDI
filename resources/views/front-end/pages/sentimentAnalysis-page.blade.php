@@ -15,7 +15,7 @@
             <div class="col-md-12">
                 <div class="col-md-6">
                     <p class="page_intro_text"><strong>Araa</strong> is multi-resource ground-breaking complete solution, integrating Automatic Speech Recognition (ASR), Sentiment Analysis technologies, and Arabic Natural Language Processing (NLP) techniques to enable Arabic social media text, Audio and Video recordings to be analyzed for sentiment analysis purposes. It is considered one of the best Arabic Sentiment Analysis solutions in terms of quality, price, accuracy and speed. Araa works with an insight into the content including trends, topic detection, and automated sentiment analysis and influence discovery.</p>
-                    {{--<a class="btn btn-lg get-started" href="https://www.rdi-sotoor.com/#/">TRY NOW!</a>--}}
+                    <a class="btn btn-lg get-started" href="https://www.rdi-sotoor.com/#/">TRY NOW!</a>
                 </div>
             </div>
         </div>
