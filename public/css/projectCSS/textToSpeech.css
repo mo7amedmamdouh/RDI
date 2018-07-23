@@ -1,27 +1,31 @@
 #page_intro{
-    height: 550px;
+    height: 650px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
     background-attachment: fixed;
     padding: 80px 0px;
+    padding-top: 180px;
 }
 
 .page_intro_text{
     color: #fff;
     font-size: 22px;
     line-height: 34px;
+    text-align: justify;
 }
 
 .page_intro_textv2{
     color: black;
     font-size: 22px;
     line-height: 34px;
+    text-align: justify;
 }
 
 @media(max-width: 768px){
     #page_intro{
         height: auto;
+        padding-top: 80px;
     }
 }
 
@@ -153,4 +157,14 @@ p.justfy-content{
 
 p.justfy{
     text-align: justify;
+}
+
+#header{
+    height: 0px;
+    border-bottom: 0px;
+    background: #385858 !important;
+}
+
+#header.transparent-header.full-header #header-wrap{
+    border-bottom: 0px;
 }

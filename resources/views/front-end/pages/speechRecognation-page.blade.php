@@ -13,7 +13,7 @@
     <div id="page_intro" style="background-image: url({{asset('images/siteImages/mice.jpeg')}})">
         <div class="container">
             <div class="col-md-12">
-                <div class="col-md-6">
+                <div class="col-md-6">d
                     <p class="page_intro_text"><strong>Kateb</strong> is the real time Automatic Speech Recognition (ASR) software solution that transcribes Arabic voice from recorded audio files into a fully editable and searchable text files. Besides supporting Modern Standard Arabic (MSA), it supports the Egyptian Dialectical Arabic. Kateb provides one of the best recognition experiences by using an innovative technology with high, fast and reliable dictation rates.</p>
                     <a class="btn btn-lg get-started" href="https://rdi-kateb.com/#/">TRY NOW!</a>
                 </div>

@@ -22,7 +22,7 @@
 
 @section('content')
 
-    <div id="slider1" style="background-image: url({{asset('images/siteImages/sliderBackground.jpg')}})">
+    <div id="slider1" style="">
         <div class="owl-carousel owl-theme">
             <div class="item">
                 <div class="col-md-4 col-md-push-4">
@@ -74,6 +74,7 @@
 
         </div>
     </div>
+</div>
 
     <div id="company-description">
         <div class="container">

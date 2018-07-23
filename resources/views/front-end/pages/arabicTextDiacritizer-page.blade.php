@@ -15,7 +15,7 @@
             <div class="col-md-12">
                 <div class="col-md-6">
                     <p class="page_intro_text"><strong>Tashkeel</strong>is the machine translation system provided by RDI that enables users to convert Arabic row data into vocalized text through adding diacritics to bare letters. It combines statistical and rule-based approaches in order to make advantage of their integration while avoiding their disadvantages. In addition to being a standalone system, its accurate outputs can be used to improve the performance of many other systems such as Text to Speech, Automatic Arabic Speech Recognition, and Search Engines.</p>
-                    <a class="btn btn-lg get-started" href="https://www.rdi-sotoor.com/#/">TRY NOW!</a>
+                    {{--<a class="btn btn-lg get-started" href="https://www.rdi-sotoor.com/#/">TRY NOW!</a>--}}
                 </div>
             </div>
         </div>

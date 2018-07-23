@@ -23,7 +23,7 @@
 
     <div class="page-block">
         <div class="col-md-12 text-center" >
-            <h2 class="page-block-header">ABOUT KASHEF</h2>
+            <h2 class="page-block-header">KASHEF</h2>
             <hr class="line"/>
         </div>
 
@@ -43,7 +43,7 @@
 
     <div class="page-block">
         <div class="col-md-12 text-center" >
-            <h2 class="page-block-header">ABOUT ROMOOZ</h2>
+            <h2 class="page-block-header">ROMOOZ</h2>
             <hr class="line"/>
         </div>
 
@@ -64,7 +64,7 @@
 
     <div class="page-block">
         <div class="col-md-12 text-center" >
-            <h2 class="page-block-header">ABOUT SUMMARIZER</h2>
+            <h2 class="page-block-header">SUMMARIZER</h2>
             <hr class="line"/>
         </div>
         <div class="container">
@@ -80,7 +80,7 @@
 
     <div class="page-block">
         <div class="col-md-12 text-center" >
-            <h2 class="page-block-header">ABOUT TOPIC CLASSIFIER</h2>
+            <h2 class="page-block-header">TOPIC CLASSIFIER</h2>
             <hr class="line"/>
         </div>
 
@@ -98,7 +98,7 @@
 
     <div class="page-block">
         <div class="col-md-12 text-center" >
-            <h2 class="page-block-header">ABOUT KEY-PHRASES EXTRACTOR</h2>
+            <h2 class="page-block-header">KEY-PHRASES EXTRACTOR</h2>
             <hr class="line"/>
         </div>
         <div class="container">

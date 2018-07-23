@@ -942,7 +942,7 @@ html[xmlns] .slider-wrap {display: block;}
 #header .container { position: relative; }
 
 #header.transparent-header {
-	background: #385858;
+	background: transparent;
 	border-bottom: none;
 	z-index: 199;
 }
