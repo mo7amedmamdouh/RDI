@@ -14,7 +14,7 @@
 
     <div class="page-block">
         <div class="col-md-12 text-center" >
-            <h2 class="page-block-header">MCIT – EGYPT (2D)
+            <h2 class="page-block-header">MCIT – EGYPT
 
             </h2>
             <hr class="line"/>
@@ -40,7 +40,7 @@
 
     <div class="page-block">
         <div class="col-md-12 text-center" >
-            <h2 class="page-block-header">MHOMOS & BONDOK – KSA (3D)
+            <h2 class="page-block-header">MHOMOS & BONDOK – KSA 
 
             </h2>
             <hr class="line"/>

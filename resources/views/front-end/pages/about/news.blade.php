@@ -24,22 +24,21 @@
 
                         <div class="acctitle"><i class="acc-closed icon-ok-circle"></i><i class="acc-open icon-remove-circle"></i>The start of cooperation between RDI & Cairo University and NTRA</div>
                         <div class="acc_content clearfix">
-                            <div class="col-md-6">
-                                <img src="{{asset('images/siteImages/news-section-1.jpeg')}}" alt="">
-                            </div>
+
                             <div class="col-md-6">
                                 <p class="lead justfy">
                                     July 2016 is the start of the project “A Framework for Big Arabic Media Data Mining and Analytics” that is funded by NTRA and implemented at the Faculty of Engineering at Cairo University, with support for The Engineering Company for the Development of Digital Systems “RDI”.
 
                                 </p>
                             </div>
+                            <div class="col-md-6">
+                                <img src="{{asset('images/siteImages/news-section-1.jpeg')}}" alt="">
+                            </div>
                         </div>
 
                         <div class="acctitle"><i class="acc-closed icon-ok-circle"></i><i class="acc-open icon-remove-circle"></i>RDI Awarded For Participating In ITIDA MSE Project</div>
                         <div class="acc_content clearfix">
-                            <div class="col-md-6">
-                                <img src="{{asset('images/siteImages/news-section-2.jpeg')}}" alt="">
-                            </div>
+
                             <div class="col-md-6">
                                 <p class="lead justfy">
                                     In the presence of the Eng. Yasser ElKady, Minister of Communications and Information Technology, the Egyptian Information Technology Industry Development Agency – ITIDA awarded RDI a certificate of completion for delivering one of ICT products as a part of MSE Project 2015.
@@ -48,16 +47,16 @@
 
                                 </p>
                             </div>
-
+                            <div class="col-md-6">
+                                <img src="{{asset('images/siteImages/news-section-2.jpeg')}}" alt="">
+                            </div>
 
                         </div>
 
                         <div class="acctitle"><i class="acc-closed icon-ok-circle"></i><i class="acc-open icon-remove-circle"></i>Hafss won the First prize in WSA </div>
                         <div class="acc_content clearfix">
 
-                            <div class="col-md-6">
-                                <img src="{{asset('images/siteImages/news-section-3.jpeg')}}" alt="">
-                            </div>
+
                             <div class="col-md-6">
                                 <p class="lead justfy">
                                     The WSA Winners Conference and Awards Ceremony took place in Venice on November 3-5, 2007, celebrating excellence in e-Content creation.
@@ -67,7 +66,9 @@
 
                                 </p>
                             </div>
-
+                            <div class="col-md-6">
+                                <img src="{{asset('images/siteImages/news-section-3.jpeg')}}" alt="">
+                            </div>
 
                         </div>
 

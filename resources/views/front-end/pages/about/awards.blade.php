@@ -2,7 +2,7 @@
 
 @section('styles')
     <link rel="stylesheet" href="{{asset('css/projectCSS/textToSpeech.css')}}">
-    
+
 @endsection
 
 
@@ -24,16 +24,16 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="col-md-7">
-                        <p class="lead justfy">
+                        <h3 class=" justfy">
                             RDI participated in the fourth round of "Tamkeen 2017" Competition, aiming to develop software and mobile phones applications for People with Disabilities (PwDs). The competition is held under the support for technological innovation and creation of the Ministry of Communications and Information Technology (MCIT).
 
 
-                        </p>
-                        <p>
+                        </h3>
+                        <h3>
                             RDI won the following awards:
 
 
-                        </p>
+                        </h3>
                         <ul class="page-block-list">
                             <li>8th Prize - Photoshop Education program for people with hearing disabilities.</li>
                             <li>19th prize - Medicine reader for blind.&nbsp; &nbsp;</li>

@@ -13,10 +13,7 @@
     <div class="page-block" style="display: none"></div>
 
     <div class="page-block">
-        <div class="col-md-12 text-center" >
-            <h2 class="page-block-header">Jobs</h2>
-            <hr class="line"/>
-        </div>
+  
 
         <div class="container">
             <div class="row">

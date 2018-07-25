@@ -14,7 +14,7 @@
 
     <div class="page-block">
         <div class="col-md-12 text-center" >
-            <h2 class="page-block-header">PROVIDE DECENT EMPLOYMENT OPPORTUNITIES FOR YOUTH USING INFORMATION TECHNOLOGY
+            <h2 class="page-block-header">PROVIDE DECENT EMPLOYMENT OPPORTUNITIES <br> FOR YOUTH USING INFORMATION TECHNOLOGY
             </h2>
             <hr class="line"/>
         </div>

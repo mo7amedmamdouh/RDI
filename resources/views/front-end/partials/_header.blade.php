@@ -50,7 +50,7 @@
               <li><a href="#"><div>E-Learning</div></a>
                 <ul>
                   <li><a href="{{route('e_learning.e-learning')}}"><div>E-Learning</div></a></li>
-                  <li><a href="{{route('e_learning.special_needs')}}"><div>E-Learning(Special Needs)</div></a></li>
+                  <li><a href="{{route('e_learning.special_needs')}}"><div>E-Learning ( Special Needs )</div></a></li>
                   <li><a href="{{route('e_learning.e_training')}}"><div>E-Training</div></a></li>
                   <li><a href="{{route('e_learning.languages_learning')}}"><div>Language Learning</div></a></li>
                   <li><a href="{{route('e_learning.mobile_applications')}}"><div>Mobile Applications</div></a></li>

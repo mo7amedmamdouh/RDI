@@ -16,7 +16,8 @@
     <div class="page-block" style="display: none;">
     </div>
 
-    <div class="page-block">
+    <div class="page-block" style="    margin-top: 70px;
+">
         <div class="col-md-12 text-center" >
 
         </div>
@@ -26,7 +27,7 @@
                 <div class="col-md-12">
                     <div class="col-md-6">
                         <h2 class="page-block-header">INDUSTRIES</h2>
-                        <p class="lead">
+                        <p class="lead justfy-content">
                             Since RDI or ‘The Engineering Company for the Development of Digital Systems’ began its journey on 1993 to develop technologies that serve the Arabic language, it was convinced that it is important to adapt its outputs to serve different domains and not to be limited to a specific domain. So we dealt with things in a more general and comprehensive view that would guide our technologies to serve society at all levels and areas. The company also had a vision to create a better future by developing products that combine the authenticity of the past with the requirements of the present without losing sight of its future viability.
 
                         </p>
