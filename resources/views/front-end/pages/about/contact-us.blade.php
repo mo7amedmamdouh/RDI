@@ -2,7 +2,13 @@
 
 @section('styles')
     <link rel="stylesheet" href="{{asset('css/projectCSS/textToSpeech.css')}}">
-  
+    <style media="screen">
+
+      #header.transparent-header{
+        background-color: #385858;
+        height: 100px;
+      }
+    </style>
 @endsection
 
 

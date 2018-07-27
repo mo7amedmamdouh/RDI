@@ -2,6 +2,13 @@
 
 @section('styles')
     <link rel="stylesheet" href="{{asset('css/projectCSS/textToSpeech.css')}}">
+    <style media="screen">
+
+      #header.transparent-header{
+        background-color: #385858;
+        height: 100px;
+      }
+    </style>
 @endsection
 
 
@@ -40,7 +47,7 @@
 
     <div class="page-block">
         <div class="col-md-12 text-center" >
-            <h2 class="page-block-header">MHOMOS & BONDOK – KSA 
+            <h2 class="page-block-header">MHOMOS & BONDOK – KSA
 
             </h2>
             <hr class="line"/>
