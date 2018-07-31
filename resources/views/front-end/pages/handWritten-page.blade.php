@@ -2,6 +2,7 @@
 
 @section('styles')
     <link rel="stylesheet" href="{{asset('css/projectCSS/textToSpeech.css')}}">
+    <link rel="stylesheet" href="{{asset('css/projectCSS/handWritten.css')}}">
 @endsection
 
 

@@ -70,7 +70,7 @@
                         </div>
                         <div class="col-sm-10 col-xs-9">
                           <p class="justfy-content">
-                            Full automatic text-to-speech conversion supported by abbreviation expansion and number-to-text conversion modules.
+                              Ability to enforce/ignore input diacritics.
                           </p>
                         </div>
 

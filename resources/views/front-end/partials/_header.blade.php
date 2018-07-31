@@ -41,7 +41,7 @@
 
               <li><a href="#"><div>NLP Tech</div></a>
                 <ul>
-                  <li><a href="{{route('sentimentAnalysis')}}"><div>Sentitment Analysis</div></a></li>
+                  <li><a href="{{route('sentimentAnalysis')}}"><div>Sentiment Analysis</div></a></li>
                   <li><a href="{{route('arabicTextDiacritizer')}}"><div>Arabic Text Diacritizer</div></a></li>
                   <li><a href="{{route('nlpToolKit')}}"><div>NLP Toolkit</div></a></li>
                 </ul>
