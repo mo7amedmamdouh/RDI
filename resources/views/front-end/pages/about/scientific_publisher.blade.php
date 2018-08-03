@@ -8,6 +8,9 @@
         background-color: #385858;
         height: 100px;
       }
+      a{
+        color: #178282;
+      }
     </style>
 @endsection
 

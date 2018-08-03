@@ -2,7 +2,7 @@
 
 @section('styles')
     <link rel="stylesheet" href="{{asset('css/projectCSS/textToSpeech.css')}}">
-    
+
 @endsection
 
 

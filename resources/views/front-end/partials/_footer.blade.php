@@ -32,7 +32,7 @@
       </div>
       <div class="col-sm-12 col-md-3">
         <div class="footer-widget">
-          <h3 class="footer-title">Other</h3>
+          
           <div class="contact-widget">
             <a href="{{route('typeWritten')}}"> OCR </a>
             <a href="{{route('sentimentAnalysis')}}"> Sentiment Analysis </a>

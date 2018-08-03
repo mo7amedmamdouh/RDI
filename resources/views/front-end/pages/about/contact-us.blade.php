@@ -46,8 +46,8 @@
                             eman.mahmoud@rdi-eg.com</p>
                     </div>
 
-                    <div class="col-md-5 text-right">
-                        <div class="col-md-6 wow bounceInUp animated animated map-con"> <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d27631.460086748055!2d31.209024999999997!3d30.038794!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7031251ac4927452!2sRDI+-+The+Engineering+Co.+For+Digital+Systems+Development!5e0!3m2!1sen!2seg!4v1523913898514" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> </div>
+                    <div class="col-md-5 ">
+                       <iframe id="iframe-bc" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d27631.460086748055!2d31.209024999999997!3d30.038794!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7031251ac4927452!2sRDI+-+The+Engineering+Co.+For+Digital+Systems+Development!5e0!3m2!1sen!2seg!4v1523913898514" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
                     </div>
                 </div>
@@ -104,6 +104,27 @@
 
 @section('scripts')
     {{-- Add Scripts Here --}}
+    <script type="text/javascript">
+    $(document).ready(function() {
+        // Optimalisation: Store the references outside the event handler:
+        var $window = $(window);
+        var $pane = $('#pane1');
 
+        function checkWidth() {
+            var windowsize = $window.width();
+            if (windowsize > 786) {
+                $("#iframe-bc").css("width", 400);
+            }
+            else{
+              $("#iframe-bc").css("width", 300);
+
+          }
+  }
+  // Execute on load
+  checkWidth();
+  // Bind event listener
+  $(window).resize(checkWidth);
+});
+    </script>
 
 @endsection

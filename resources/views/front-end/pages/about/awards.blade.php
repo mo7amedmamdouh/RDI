@@ -8,6 +8,9 @@
         background-color: #385858;
         height: 100px;
       }
+      .justfy{
+        text-align: justify;
+      }
     </style>
 @endsection
 
