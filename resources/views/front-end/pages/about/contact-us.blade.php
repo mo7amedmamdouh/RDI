@@ -92,7 +92,8 @@
                             </div>
                         </div>
                         <div class="col-md-12">
-                            <input type="submit" class="btn btn-primary pull-right" value="Send Message">
+                            <input type="submit" class="btn btn-primary pull-right" style="background-color: #f4e5a1;
+    color: #000;" value="Send Message">
                         </div>
                     </form>
                 </div>

@@ -5,6 +5,14 @@
         .img-responsive{
             margin: 0 auto;
         }
+
+          #header.transparent-header{
+            background-color: #385858;
+            height: 100px;
+          }
+          #wrapper{
+            background-image: none !important;
+          }
     </style>
 @endsection
 
