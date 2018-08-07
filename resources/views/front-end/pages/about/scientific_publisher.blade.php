@@ -9,7 +9,7 @@
         height: 100px;
       }
       a{
-        color: #178282;
+        color: rgba(26, 188, 156, 1);
       }
     </style>
 @endsection
